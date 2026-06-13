@@ -1,0 +1,3356 @@
+{
+  "generated_at_ksa": "2026-06-14T02:04:45+03:00",
+  "report_day": "2026-06-13",
+  "current_day_partial": false,
+  "source": "Saudi Sale public Metabase listing package card 95",
+  "source_url": "https://bi.saudisale.com/public/dashboard/d8ed1416-4dcd-4044-a6ad-48964b97d37d",
+  "data_coverage": "Live package-count data from 2026-03-01 to 2026-06-13; like-for-like comparison is against the same calendar dates in 2025 only.",
+  "price_rule": "Total revenue combines estimated individual-ad package revenue plus paid commission from the commission listing report. Estimated individual-ad revenue: Regular SAR 115 before 18 May 2026 and SAR 184 from 18 May 2026; Special SAR 345 before 18 May 2026 and SAR 460 from 18 May 2026; Private SAR 805. Commission revenue uses commission_amount only where commission_paid = نعم in the commission listing report. Showroom/dealer listing revenue is SAR 0. 2025 LFL revenue uses historical pre-price-change package prices (Regular SAR 115, Special SAR 345, Private SAR 805) plus paid commission from the 2025 commission report.",
+  "latest": {
+    "date": "2026-06-13",
+    "counts": {
+      "regular": 6,
+      "special": 4,
+      "private": 2,
+      "commission": 9,
+      "showroom": 42
+    },
+    "revenue_by_pkg": {
+      "regular": 1104,
+      "special": 1840,
+      "private": 1610,
+      "commission": 0,
+      "showroom": 0
+    },
+    "paid": 12,
+    "package_ads": 21,
+    "total": 63,
+    "revenue": 4554
+  },
+  "benchmarks": {
+    "expected_label": "MTD daily avg",
+    "expected": {
+      "package_ads": 15.833333333333334,
+      "total": 60.0,
+      "paid": 6.0,
+      "revenue": 2121.75,
+      "counts": {
+        "regular": 2.8333333333333335,
+        "special": 2.75,
+        "private": 0.4166666666666667,
+        "commission": 9.833333333333334,
+        "showroom": 44.166666666666664
+      },
+      "revenue_by_pkg": {
+        "regular": 521.3333333333334,
+        "special": 1265.0,
+        "private": 335.4166666666667,
+        "commission": 0.0,
+        "showroom": 0.0
+      }
+    },
+    "baseline_mar1_may17": {
+      "package_ads": 18.243589743589745,
+      "total": 58.743589743589745,
+      "paid": 7.602564102564102,
+      "revenue": 2290.320256410256,
+      "counts": {
+        "regular": 3.8205128205128207,
+        "special": 3.2948717948717947,
+        "private": 0.48717948717948717,
+        "commission": 10.64102564102564,
+        "showroom": 40.5
+      },
+      "revenue_by_pkg": {
+        "regular": 439.35897435897436,
+        "special": 1136.7307692307693,
+        "private": 392.1794871794872,
+        "commission": 322.05102564102566,
+        "showroom": 0.0
+      }
+    },
+    "prior7": {
+      "package_ads": 16.857142857142858,
+      "total": 64.0,
+      "paid": 7.428571428571429,
+      "revenue": 2569.4285714285716
+    },
+    "benchmark_2025": null
+  },
+  "run_rate": {
+    "period_start": "2026-03-01",
+    "period_end": "2026-06-13",
+    "period_days": 105,
+    "period_revenue": 232165.98,
+    "period_daily_revenue": 2211.1045714285715,
+    "period_annualized_12m": 807053.1685714286,
+    "same_period_2025_start": "2025-03-01",
+    "same_period_2025_end": "2025-06-13",
+    "same_period_2025_days": 105,
+    "same_period_2025_revenue": 223920.0,
+    "same_period_2025_daily_revenue": 2132.5714285714284,
+    "same_period_2025_annualized_12m": 778388.5714285714,
+    "yearly_2025_revenue": 799915.0,
+    "yearly_2025_paid_listings": 6679,
+    "yearly_2025_total_listings": 19531,
+    "mtd_revenue": 30015,
+    "mtd_days": 13,
+    "mtd_daily_revenue": 2308.846153846154,
+    "mtd_annualized_12m": 842728.8461538461,
+    "last30_revenue": 60191,
+    "last30_daily_revenue": 2006.3666666666666,
+    "last30_annualized_12m": 732323.8333333333,
+    "revenue_2024": null
+  },
+  "history": [
+    {
+      "date": "2026-03-01",
+      "counts": {
+        "regular": 2,
+        "special": 6,
+        "private": 1,
+        "commission": 12,
+        "showroom": 31
+      },
+      "revenue_by_pkg": {
+        "regular": 230,
+        "special": 2070,
+        "private": 805,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 9,
+      "package_ads": 21,
+      "total": 52,
+      "revenue": 3105
+    },
+    {
+      "date": "2026-03-02",
+      "counts": {
+        "regular": 0,
+        "special": 3,
+        "private": 3,
+        "commission": 10,
+        "showroom": 38
+      },
+      "revenue_by_pkg": {
+        "regular": 0,
+        "special": 1035,
+        "private": 2415,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 6,
+      "package_ads": 16,
+      "total": 54,
+      "revenue": 3450
+    },
+    {
+      "date": "2026-03-03",
+      "counts": {
+        "regular": 2,
+        "special": 5,
+        "private": 0,
+        "commission": 7,
+        "showroom": 33
+      },
+      "revenue_by_pkg": {
+        "regular": 230,
+        "special": 1725,
+        "private": 0,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 7,
+      "package_ads": 14,
+      "total": 47,
+      "revenue": 1955
+    },
+    {
+      "date": "2026-03-04",
+      "counts": {
+        "regular": 6,
+        "special": 5,
+        "private": 1,
+        "commission": 15,
+        "showroom": 54
+      },
+      "revenue_by_pkg": {
+        "regular": 690,
+        "special": 1725,
+        "private": 805,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 12,
+      "package_ads": 27,
+      "total": 81,
+      "revenue": 3220
+    },
+    {
+      "date": "2026-03-05",
+      "counts": {
+        "regular": 3,
+        "special": 7,
+        "private": 0,
+        "commission": 8,
+        "showroom": 40
+      },
+      "revenue_by_pkg": {
+        "regular": 345,
+        "special": 2415,
+        "private": 0,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 10,
+      "package_ads": 18,
+      "total": 58,
+      "revenue": 2760
+    },
+    {
+      "date": "2026-03-06",
+      "counts": {
+        "regular": 6,
+        "special": 1,
+        "private": 0,
+        "commission": 12,
+        "showroom": 38
+      },
+      "revenue_by_pkg": {
+        "regular": 690,
+        "special": 345,
+        "private": 0,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 7,
+      "package_ads": 19,
+      "total": 57,
+      "revenue": 1035
+    },
+    {
+      "date": "2026-03-07",
+      "counts": {
+        "regular": 3,
+        "special": 6,
+        "private": 0,
+        "commission": 14,
+        "showroom": 51
+      },
+      "revenue_by_pkg": {
+        "regular": 345,
+        "special": 2070,
+        "private": 0,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 9,
+      "package_ads": 23,
+      "total": 74,
+      "revenue": 2415
+    },
+    {
+      "date": "2026-03-08",
+      "counts": {
+        "regular": 9,
+        "special": 5,
+        "private": 0,
+        "commission": 5,
+        "showroom": 55
+      },
+      "revenue_by_pkg": {
+        "regular": 1035,
+        "special": 1725,
+        "private": 0,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 14,
+      "package_ads": 19,
+      "total": 74,
+      "revenue": 2760
+    },
+    {
+      "date": "2026-03-09",
+      "counts": {
+        "regular": 2,
+        "special": 1,
+        "private": 0,
+        "commission": 12,
+        "showroom": 38
+      },
+      "revenue_by_pkg": {
+        "regular": 230,
+        "special": 345,
+        "private": 0,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 3,
+      "package_ads": 15,
+      "total": 53,
+      "revenue": 575
+    },
+    {
+      "date": "2026-03-10",
+      "counts": {
+        "regular": 4,
+        "special": 5,
+        "private": 1,
+        "commission": 20,
+        "showroom": 87
+      },
+      "revenue_by_pkg": {
+        "regular": 460,
+        "special": 1725,
+        "private": 805,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 10,
+      "package_ads": 30,
+      "total": 117,
+      "revenue": 2990
+    },
+    {
+      "date": "2026-03-11",
+      "counts": {
+        "regular": 6,
+        "special": 3,
+        "private": 0,
+        "commission": 15,
+        "showroom": 45
+      },
+      "revenue_by_pkg": {
+        "regular": 690,
+        "special": 1035,
+        "private": 0,
+        "commission": 2600.0,
+        "showroom": 0
+      },
+      "paid": 9,
+      "package_ads": 24,
+      "total": 69,
+      "revenue": 4325.0
+    },
+    {
+      "date": "2026-03-12",
+      "counts": {
+        "regular": 1,
+        "special": 6,
+        "private": 2,
+        "commission": 8,
+        "showroom": 50
+      },
+      "revenue_by_pkg": {
+        "regular": 115,
+        "special": 2070,
+        "private": 1610,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 9,
+      "package_ads": 17,
+      "total": 67,
+      "revenue": 3795
+    },
+    {
+      "date": "2026-03-13",
+      "counts": {
+        "regular": 9,
+        "special": 5,
+        "private": 1,
+        "commission": 12,
+        "showroom": 38
+      },
+      "revenue_by_pkg": {
+        "regular": 1035,
+        "special": 1725,
+        "private": 805,
+        "commission": 1900.0,
+        "showroom": 0
+      },
+      "paid": 15,
+      "package_ads": 27,
+      "total": 65,
+      "revenue": 5465.0
+    },
+    {
+      "date": "2026-03-14",
+      "counts": {
+        "regular": 2,
+        "special": 7,
+        "private": 3,
+        "commission": 17,
+        "showroom": 42
+      },
+      "revenue_by_pkg": {
+        "regular": 230,
+        "special": 2415,
+        "private": 2415,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 12,
+      "package_ads": 29,
+      "total": 71,
+      "revenue": 5060
+    },
+    {
+      "date": "2026-03-15",
+      "counts": {
+        "regular": 2,
+        "special": 3,
+        "private": 0,
+        "commission": 18,
+        "showroom": 36
+      },
+      "revenue_by_pkg": {
+        "regular": 230,
+        "special": 1035,
+        "private": 0,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 5,
+      "package_ads": 23,
+      "total": 59,
+      "revenue": 1265
+    },
+    {
+      "date": "2026-03-16",
+      "counts": {
+        "regular": 2,
+        "special": 3,
+        "private": 0,
+        "commission": 13,
+        "showroom": 62
+      },
+      "revenue_by_pkg": {
+        "regular": 230,
+        "special": 1035,
+        "private": 0,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 5,
+      "package_ads": 18,
+      "total": 80,
+      "revenue": 1265
+    },
+    {
+      "date": "2026-03-17",
+      "counts": {
+        "regular": 5,
+        "special": 3,
+        "private": 1,
+        "commission": 10,
+        "showroom": 31
+      },
+      "revenue_by_pkg": {
+        "regular": 575,
+        "special": 1035,
+        "private": 805,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 9,
+      "package_ads": 19,
+      "total": 50,
+      "revenue": 2415
+    },
+    {
+      "date": "2026-03-18",
+      "counts": {
+        "regular": 2,
+        "special": 1,
+        "private": 0,
+        "commission": 10,
+        "showroom": 27
+      },
+      "revenue_by_pkg": {
+        "regular": 230,
+        "special": 345,
+        "private": 0,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 3,
+      "package_ads": 13,
+      "total": 40,
+      "revenue": 575
+    },
+    {
+      "date": "2026-03-19",
+      "counts": {
+        "regular": 1,
+        "special": 1,
+        "private": 0,
+        "commission": 10,
+        "showroom": 42
+      },
+      "revenue_by_pkg": {
+        "regular": 115,
+        "special": 345,
+        "private": 0,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 2,
+      "package_ads": 12,
+      "total": 54,
+      "revenue": 460
+    },
+    {
+      "date": "2026-03-20",
+      "counts": {
+        "regular": 0,
+        "special": 0,
+        "private": 0,
+        "commission": 2,
+        "showroom": 0
+      },
+      "revenue_by_pkg": {
+        "regular": 0,
+        "special": 0,
+        "private": 0,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 0,
+      "package_ads": 2,
+      "total": 2,
+      "revenue": 0
+    },
+    {
+      "date": "2026-03-21",
+      "counts": {
+        "regular": 0,
+        "special": 0,
+        "private": 0,
+        "commission": 1,
+        "showroom": 0
+      },
+      "revenue_by_pkg": {
+        "regular": 0,
+        "special": 0,
+        "private": 0,
+        "commission": 2150.0,
+        "showroom": 0
+      },
+      "paid": 0,
+      "package_ads": 1,
+      "total": 1,
+      "revenue": 2150.0
+    },
+    {
+      "date": "2026-03-22",
+      "counts": {
+        "regular": 4,
+        "special": 1,
+        "private": 0,
+        "commission": 6,
+        "showroom": 0
+      },
+      "revenue_by_pkg": {
+        "regular": 460,
+        "special": 345,
+        "private": 0,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 5,
+      "package_ads": 11,
+      "total": 11,
+      "revenue": 805
+    },
+    {
+      "date": "2026-03-23",
+      "counts": {
+        "regular": 0,
+        "special": 1,
+        "private": 0,
+        "commission": 6,
+        "showroom": 7
+      },
+      "revenue_by_pkg": {
+        "regular": 0,
+        "special": 345,
+        "private": 0,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 1,
+      "package_ads": 7,
+      "total": 14,
+      "revenue": 345
+    },
+    {
+      "date": "2026-03-24",
+      "counts": {
+        "regular": 1,
+        "special": 4,
+        "private": 0,
+        "commission": 11,
+        "showroom": 13
+      },
+      "revenue_by_pkg": {
+        "regular": 115,
+        "special": 1380,
+        "private": 0,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 5,
+      "package_ads": 16,
+      "total": 29,
+      "revenue": 1495
+    },
+    {
+      "date": "2026-03-25",
+      "counts": {
+        "regular": 3,
+        "special": 3,
+        "private": 0,
+        "commission": 9,
+        "showroom": 53
+      },
+      "revenue_by_pkg": {
+        "regular": 345,
+        "special": 1035,
+        "private": 0,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 6,
+      "package_ads": 15,
+      "total": 68,
+      "revenue": 1380
+    },
+    {
+      "date": "2026-03-26",
+      "counts": {
+        "regular": 2,
+        "special": 1,
+        "private": 1,
+        "commission": 9,
+        "showroom": 39
+      },
+      "revenue_by_pkg": {
+        "regular": 230,
+        "special": 345,
+        "private": 805,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 4,
+      "package_ads": 13,
+      "total": 52,
+      "revenue": 1380
+    },
+    {
+      "date": "2026-03-27",
+      "counts": {
+        "regular": 1,
+        "special": 0,
+        "private": 0,
+        "commission": 8,
+        "showroom": 13
+      },
+      "revenue_by_pkg": {
+        "regular": 115,
+        "special": 0,
+        "private": 0,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 1,
+      "package_ads": 9,
+      "total": 22,
+      "revenue": 115
+    },
+    {
+      "date": "2026-03-28",
+      "counts": {
+        "regular": 5,
+        "special": 4,
+        "private": 0,
+        "commission": 11,
+        "showroom": 50
+      },
+      "revenue_by_pkg": {
+        "regular": 575,
+        "special": 1380,
+        "private": 0,
+        "commission": 5700.0,
+        "showroom": 0
+      },
+      "paid": 9,
+      "package_ads": 20,
+      "total": 70,
+      "revenue": 7655.0
+    },
+    {
+      "date": "2026-03-29",
+      "counts": {
+        "regular": 6,
+        "special": 1,
+        "private": 2,
+        "commission": 12,
+        "showroom": 28
+      },
+      "revenue_by_pkg": {
+        "regular": 690,
+        "special": 345,
+        "private": 1610,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 9,
+      "package_ads": 21,
+      "total": 49,
+      "revenue": 2645
+    },
+    {
+      "date": "2026-03-30",
+      "counts": {
+        "regular": 4,
+        "special": 4,
+        "private": 2,
+        "commission": 11,
+        "showroom": 69
+      },
+      "revenue_by_pkg": {
+        "regular": 460,
+        "special": 1380,
+        "private": 1610,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 10,
+      "package_ads": 21,
+      "total": 90,
+      "revenue": 3450
+    },
+    {
+      "date": "2026-03-31",
+      "counts": {
+        "regular": 6,
+        "special": 2,
+        "private": 0,
+        "commission": 12,
+        "showroom": 39
+      },
+      "revenue_by_pkg": {
+        "regular": 690,
+        "special": 690,
+        "private": 0,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 8,
+      "package_ads": 20,
+      "total": 59,
+      "revenue": 1380
+    },
+    {
+      "date": "2026-04-01",
+      "counts": {
+        "regular": 1,
+        "special": 7,
+        "private": 0,
+        "commission": 20,
+        "showroom": 51
+      },
+      "revenue_by_pkg": {
+        "regular": 115,
+        "special": 2415,
+        "private": 0,
+        "commission": 1000.0,
+        "showroom": 0
+      },
+      "paid": 8,
+      "package_ads": 28,
+      "total": 79,
+      "revenue": 3530.0
+    },
+    {
+      "date": "2026-04-02",
+      "counts": {
+        "regular": 3,
+        "special": 5,
+        "private": 0,
+        "commission": 7,
+        "showroom": 24
+      },
+      "revenue_by_pkg": {
+        "regular": 345,
+        "special": 1725,
+        "private": 0,
+        "commission": 1369.98,
+        "showroom": 0
+      },
+      "paid": 8,
+      "package_ads": 15,
+      "total": 39,
+      "revenue": 3439.98
+    },
+    {
+      "date": "2026-04-03",
+      "counts": {
+        "regular": 6,
+        "special": 1,
+        "private": 0,
+        "commission": 6,
+        "showroom": 24
+      },
+      "revenue_by_pkg": {
+        "regular": 690,
+        "special": 345,
+        "private": 0,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 7,
+      "package_ads": 13,
+      "total": 37,
+      "revenue": 1035
+    },
+    {
+      "date": "2026-04-04",
+      "counts": {
+        "regular": 4,
+        "special": 3,
+        "private": 0,
+        "commission": 10,
+        "showroom": 56
+      },
+      "revenue_by_pkg": {
+        "regular": 460,
+        "special": 1035,
+        "private": 0,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 7,
+      "package_ads": 17,
+      "total": 73,
+      "revenue": 1495
+    },
+    {
+      "date": "2026-04-05",
+      "counts": {
+        "regular": 5,
+        "special": 3,
+        "private": 0,
+        "commission": 10,
+        "showroom": 48
+      },
+      "revenue_by_pkg": {
+        "regular": 575,
+        "special": 1035,
+        "private": 0,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 8,
+      "package_ads": 18,
+      "total": 66,
+      "revenue": 1610
+    },
+    {
+      "date": "2026-04-06",
+      "counts": {
+        "regular": 9,
+        "special": 2,
+        "private": 0,
+        "commission": 11,
+        "showroom": 28
+      },
+      "revenue_by_pkg": {
+        "regular": 1035,
+        "special": 690,
+        "private": 0,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 11,
+      "package_ads": 22,
+      "total": 50,
+      "revenue": 1725
+    },
+    {
+      "date": "2026-04-07",
+      "counts": {
+        "regular": 3,
+        "special": 7,
+        "private": 1,
+        "commission": 14,
+        "showroom": 44
+      },
+      "revenue_by_pkg": {
+        "regular": 345,
+        "special": 2415,
+        "private": 805,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 11,
+      "package_ads": 25,
+      "total": 69,
+      "revenue": 3565
+    },
+    {
+      "date": "2026-04-08",
+      "counts": {
+        "regular": 4,
+        "special": 4,
+        "private": 0,
+        "commission": 9,
+        "showroom": 50
+      },
+      "revenue_by_pkg": {
+        "regular": 460,
+        "special": 1380,
+        "private": 0,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 8,
+      "package_ads": 17,
+      "total": 67,
+      "revenue": 1840
+    },
+    {
+      "date": "2026-04-09",
+      "counts": {
+        "regular": 5,
+        "special": 5,
+        "private": 0,
+        "commission": 13,
+        "showroom": 48
+      },
+      "revenue_by_pkg": {
+        "regular": 575,
+        "special": 1725,
+        "private": 0,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 10,
+      "package_ads": 23,
+      "total": 71,
+      "revenue": 2300
+    },
+    {
+      "date": "2026-04-10",
+      "counts": {
+        "regular": 7,
+        "special": 1,
+        "private": 0,
+        "commission": 10,
+        "showroom": 24
+      },
+      "revenue_by_pkg": {
+        "regular": 805,
+        "special": 345,
+        "private": 0,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 8,
+      "package_ads": 18,
+      "total": 42,
+      "revenue": 1150
+    },
+    {
+      "date": "2026-04-11",
+      "counts": {
+        "regular": 3,
+        "special": 0,
+        "private": 2,
+        "commission": 8,
+        "showroom": 45
+      },
+      "revenue_by_pkg": {
+        "regular": 345,
+        "special": 0,
+        "private": 1610,
+        "commission": 1100.0,
+        "showroom": 0
+      },
+      "paid": 5,
+      "package_ads": 13,
+      "total": 58,
+      "revenue": 3055.0
+    },
+    {
+      "date": "2026-04-12",
+      "counts": {
+        "regular": 3,
+        "special": 2,
+        "private": 0,
+        "commission": 8,
+        "showroom": 31
+      },
+      "revenue_by_pkg": {
+        "regular": 345,
+        "special": 690,
+        "private": 0,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 5,
+      "package_ads": 13,
+      "total": 44,
+      "revenue": 1035
+    },
+    {
+      "date": "2026-04-13",
+      "counts": {
+        "regular": 2,
+        "special": 5,
+        "private": 1,
+        "commission": 20,
+        "showroom": 60
+      },
+      "revenue_by_pkg": {
+        "regular": 230,
+        "special": 1725,
+        "private": 805,
+        "commission": 1550.0,
+        "showroom": 0
+      },
+      "paid": 8,
+      "package_ads": 28,
+      "total": 88,
+      "revenue": 4310.0
+    },
+    {
+      "date": "2026-04-14",
+      "counts": {
+        "regular": 0,
+        "special": 3,
+        "private": 0,
+        "commission": 11,
+        "showroom": 36
+      },
+      "revenue_by_pkg": {
+        "regular": 0,
+        "special": 1035,
+        "private": 0,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 3,
+      "package_ads": 14,
+      "total": 50,
+      "revenue": 1035
+    },
+    {
+      "date": "2026-04-15",
+      "counts": {
+        "regular": 2,
+        "special": 7,
+        "private": 0,
+        "commission": 9,
+        "showroom": 71
+      },
+      "revenue_by_pkg": {
+        "regular": 230,
+        "special": 2415,
+        "private": 0,
+        "commission": 3600.0,
+        "showroom": 0
+      },
+      "paid": 9,
+      "package_ads": 18,
+      "total": 89,
+      "revenue": 6245.0
+    },
+    {
+      "date": "2026-04-16",
+      "counts": {
+        "regular": 3,
+        "special": 6,
+        "private": 0,
+        "commission": 5,
+        "showroom": 52
+      },
+      "revenue_by_pkg": {
+        "regular": 345,
+        "special": 2070,
+        "private": 0,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 9,
+      "package_ads": 14,
+      "total": 66,
+      "revenue": 2415
+    },
+    {
+      "date": "2026-04-17",
+      "counts": {
+        "regular": 5,
+        "special": 0,
+        "private": 0,
+        "commission": 10,
+        "showroom": 17
+      },
+      "revenue_by_pkg": {
+        "regular": 575,
+        "special": 0,
+        "private": 0,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 5,
+      "package_ads": 15,
+      "total": 32,
+      "revenue": 575
+    },
+    {
+      "date": "2026-04-18",
+      "counts": {
+        "regular": 4,
+        "special": 3,
+        "private": 1,
+        "commission": 6,
+        "showroom": 31
+      },
+      "revenue_by_pkg": {
+        "regular": 460,
+        "special": 1035,
+        "private": 805,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 8,
+      "package_ads": 14,
+      "total": 45,
+      "revenue": 2300
+    },
+    {
+      "date": "2026-04-19",
+      "counts": {
+        "regular": 5,
+        "special": 3,
+        "private": 0,
+        "commission": 16,
+        "showroom": 44
+      },
+      "revenue_by_pkg": {
+        "regular": 575,
+        "special": 1035,
+        "private": 0,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 8,
+      "package_ads": 24,
+      "total": 68,
+      "revenue": 1610
+    },
+    {
+      "date": "2026-04-20",
+      "counts": {
+        "regular": 6,
+        "special": 8,
+        "private": 0,
+        "commission": 10,
+        "showroom": 53
+      },
+      "revenue_by_pkg": {
+        "regular": 690,
+        "special": 2760,
+        "private": 0,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 14,
+      "package_ads": 24,
+      "total": 77,
+      "revenue": 3450
+    },
+    {
+      "date": "2026-04-21",
+      "counts": {
+        "regular": 4,
+        "special": 10,
+        "private": 1,
+        "commission": 15,
+        "showroom": 33
+      },
+      "revenue_by_pkg": {
+        "regular": 460,
+        "special": 3450,
+        "private": 805,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 15,
+      "package_ads": 30,
+      "total": 63,
+      "revenue": 4715
+    },
+    {
+      "date": "2026-04-22",
+      "counts": {
+        "regular": 4,
+        "special": 3,
+        "private": 0,
+        "commission": 11,
+        "showroom": 64
+      },
+      "revenue_by_pkg": {
+        "regular": 460,
+        "special": 1035,
+        "private": 0,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 7,
+      "package_ads": 18,
+      "total": 82,
+      "revenue": 1495
+    },
+    {
+      "date": "2026-04-23",
+      "counts": {
+        "regular": 8,
+        "special": 7,
+        "private": 0,
+        "commission": 14,
+        "showroom": 68
+      },
+      "revenue_by_pkg": {
+        "regular": 920,
+        "special": 2415,
+        "private": 0,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 15,
+      "package_ads": 29,
+      "total": 97,
+      "revenue": 3335
+    },
+    {
+      "date": "2026-04-24",
+      "counts": {
+        "regular": 1,
+        "special": 1,
+        "private": 0,
+        "commission": 15,
+        "showroom": 11
+      },
+      "revenue_by_pkg": {
+        "regular": 115,
+        "special": 345,
+        "private": 0,
+        "commission": 2400.0,
+        "showroom": 0
+      },
+      "paid": 2,
+      "package_ads": 17,
+      "total": 28,
+      "revenue": 2860.0
+    },
+    {
+      "date": "2026-04-25",
+      "counts": {
+        "regular": 1,
+        "special": 4,
+        "private": 0,
+        "commission": 12,
+        "showroom": 21
+      },
+      "revenue_by_pkg": {
+        "regular": 115,
+        "special": 1380,
+        "private": 0,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 5,
+      "package_ads": 17,
+      "total": 38,
+      "revenue": 1495
+    },
+    {
+      "date": "2026-04-26",
+      "counts": {
+        "regular": 6,
+        "special": 2,
+        "private": 0,
+        "commission": 16,
+        "showroom": 50
+      },
+      "revenue_by_pkg": {
+        "regular": 690,
+        "special": 690,
+        "private": 0,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 8,
+      "package_ads": 24,
+      "total": 74,
+      "revenue": 1380
+    },
+    {
+      "date": "2026-04-27",
+      "counts": {
+        "regular": 2,
+        "special": 3,
+        "private": 0,
+        "commission": 12,
+        "showroom": 32
+      },
+      "revenue_by_pkg": {
+        "regular": 230,
+        "special": 1035,
+        "private": 0,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 5,
+      "package_ads": 17,
+      "total": 49,
+      "revenue": 1265
+    },
+    {
+      "date": "2026-04-28",
+      "counts": {
+        "regular": 6,
+        "special": 3,
+        "private": 1,
+        "commission": 9,
+        "showroom": 57
+      },
+      "revenue_by_pkg": {
+        "regular": 690,
+        "special": 1035,
+        "private": 805,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 10,
+      "package_ads": 19,
+      "total": 76,
+      "revenue": 2530
+    },
+    {
+      "date": "2026-04-29",
+      "counts": {
+        "regular": 4,
+        "special": 5,
+        "private": 2,
+        "commission": 6,
+        "showroom": 58
+      },
+      "revenue_by_pkg": {
+        "regular": 460,
+        "special": 1725,
+        "private": 1610,
+        "commission": 1750.0,
+        "showroom": 0
+      },
+      "paid": 11,
+      "package_ads": 17,
+      "total": 75,
+      "revenue": 5545.0
+    },
+    {
+      "date": "2026-04-30",
+      "counts": {
+        "regular": 1,
+        "special": 2,
+        "private": 0,
+        "commission": 8,
+        "showroom": 31
+      },
+      "revenue_by_pkg": {
+        "regular": 115,
+        "special": 690,
+        "private": 0,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 3,
+      "package_ads": 11,
+      "total": 42,
+      "revenue": 805
+    },
+    {
+      "date": "2026-05-01",
+      "counts": {
+        "regular": 3,
+        "special": 1,
+        "private": 0,
+        "commission": 8,
+        "showroom": 39
+      },
+      "revenue_by_pkg": {
+        "regular": 345,
+        "special": 345,
+        "private": 0,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 4,
+      "package_ads": 12,
+      "total": 51,
+      "revenue": 690
+    },
+    {
+      "date": "2026-05-02",
+      "counts": {
+        "regular": 0,
+        "special": 3,
+        "private": 1,
+        "commission": 10,
+        "showroom": 29
+      },
+      "revenue_by_pkg": {
+        "regular": 0,
+        "special": 1035,
+        "private": 805,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 4,
+      "package_ads": 14,
+      "total": 43,
+      "revenue": 1840
+    },
+    {
+      "date": "2026-05-03",
+      "counts": {
+        "regular": 2,
+        "special": 4,
+        "private": 2,
+        "commission": 24,
+        "showroom": 51
+      },
+      "revenue_by_pkg": {
+        "regular": 230,
+        "special": 1380,
+        "private": 1610,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 8,
+      "package_ads": 32,
+      "total": 83,
+      "revenue": 3220
+    },
+    {
+      "date": "2026-05-04",
+      "counts": {
+        "regular": 4,
+        "special": 3,
+        "private": 0,
+        "commission": 9,
+        "showroom": 53
+      },
+      "revenue_by_pkg": {
+        "regular": 460,
+        "special": 1035,
+        "private": 0,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 7,
+      "package_ads": 16,
+      "total": 69,
+      "revenue": 1495
+    },
+    {
+      "date": "2026-05-05",
+      "counts": {
+        "regular": 3,
+        "special": 2,
+        "private": 1,
+        "commission": 8,
+        "showroom": 57
+      },
+      "revenue_by_pkg": {
+        "regular": 345,
+        "special": 690,
+        "private": 805,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 6,
+      "package_ads": 14,
+      "total": 71,
+      "revenue": 1840
+    },
+    {
+      "date": "2026-05-06",
+      "counts": {
+        "regular": 9,
+        "special": 1,
+        "private": 0,
+        "commission": 15,
+        "showroom": 56
+      },
+      "revenue_by_pkg": {
+        "regular": 1035,
+        "special": 345,
+        "private": 0,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 10,
+      "package_ads": 25,
+      "total": 81,
+      "revenue": 1380
+    },
+    {
+      "date": "2026-05-07",
+      "counts": {
+        "regular": 3,
+        "special": 4,
+        "private": 0,
+        "commission": 10,
+        "showroom": 70
+      },
+      "revenue_by_pkg": {
+        "regular": 345,
+        "special": 1380,
+        "private": 0,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 7,
+      "package_ads": 17,
+      "total": 87,
+      "revenue": 1725
+    },
+    {
+      "date": "2026-05-08",
+      "counts": {
+        "regular": 5,
+        "special": 1,
+        "private": 1,
+        "commission": 8,
+        "showroom": 25
+      },
+      "revenue_by_pkg": {
+        "regular": 575,
+        "special": 345,
+        "private": 805,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 7,
+      "package_ads": 15,
+      "total": 40,
+      "revenue": 1725
+    },
+    {
+      "date": "2026-05-09",
+      "counts": {
+        "regular": 8,
+        "special": 4,
+        "private": 0,
+        "commission": 8,
+        "showroom": 37
+      },
+      "revenue_by_pkg": {
+        "regular": 920,
+        "special": 1380,
+        "private": 0,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 12,
+      "package_ads": 20,
+      "total": 57,
+      "revenue": 2300
+    },
+    {
+      "date": "2026-05-10",
+      "counts": {
+        "regular": 6,
+        "special": 4,
+        "private": 1,
+        "commission": 8,
+        "showroom": 38
+      },
+      "revenue_by_pkg": {
+        "regular": 690,
+        "special": 1380,
+        "private": 805,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 11,
+      "package_ads": 19,
+      "total": 57,
+      "revenue": 2875
+    },
+    {
+      "date": "2026-05-11",
+      "counts": {
+        "regular": 12,
+        "special": 4,
+        "private": 1,
+        "commission": 13,
+        "showroom": 44
+      },
+      "revenue_by_pkg": {
+        "regular": 1380,
+        "special": 1380,
+        "private": 805,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 17,
+      "package_ads": 30,
+      "total": 74,
+      "revenue": 3565
+    },
+    {
+      "date": "2026-05-12",
+      "counts": {
+        "regular": 5,
+        "special": 2,
+        "private": 0,
+        "commission": 6,
+        "showroom": 53
+      },
+      "revenue_by_pkg": {
+        "regular": 575,
+        "special": 690,
+        "private": 0,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 7,
+      "package_ads": 13,
+      "total": 66,
+      "revenue": 1265
+    },
+    {
+      "date": "2026-05-13",
+      "counts": {
+        "regular": 6,
+        "special": 2,
+        "private": 1,
+        "commission": 13,
+        "showroom": 35
+      },
+      "revenue_by_pkg": {
+        "regular": 690,
+        "special": 690,
+        "private": 805,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 9,
+      "package_ads": 22,
+      "total": 57,
+      "revenue": 2185
+    },
+    {
+      "date": "2026-05-14",
+      "counts": {
+        "regular": 6,
+        "special": 1,
+        "private": 0,
+        "commission": 8,
+        "showroom": 33
+      },
+      "revenue_by_pkg": {
+        "regular": 690,
+        "special": 345,
+        "private": 0,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 7,
+      "package_ads": 15,
+      "total": 48,
+      "revenue": 1035
+    },
+    {
+      "date": "2026-05-15",
+      "counts": {
+        "regular": 1,
+        "special": 1,
+        "private": 0,
+        "commission": 8,
+        "showroom": 17
+      },
+      "revenue_by_pkg": {
+        "regular": 115,
+        "special": 345,
+        "private": 0,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 2,
+      "package_ads": 10,
+      "total": 27,
+      "revenue": 460
+    },
+    {
+      "date": "2026-05-16",
+      "counts": {
+        "regular": 5,
+        "special": 4,
+        "private": 1,
+        "commission": 6,
+        "showroom": 45
+      },
+      "revenue_by_pkg": {
+        "regular": 575,
+        "special": 1380,
+        "private": 805,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 10,
+      "package_ads": 16,
+      "total": 61,
+      "revenue": 2760
+    },
+    {
+      "date": "2026-05-17",
+      "counts": {
+        "regular": 4,
+        "special": 4,
+        "private": 2,
+        "commission": 11,
+        "showroom": 66
+      },
+      "revenue_by_pkg": {
+        "regular": 460,
+        "special": 1380,
+        "private": 1610,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 10,
+      "package_ads": 21,
+      "total": 87,
+      "revenue": 3450
+    },
+    {
+      "date": "2026-05-18",
+      "counts": {
+        "regular": 1,
+        "special": 3,
+        "private": 0,
+        "commission": 12,
+        "showroom": 44
+      },
+      "revenue_by_pkg": {
+        "regular": 184,
+        "special": 1380,
+        "private": 0,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 4,
+      "package_ads": 16,
+      "total": 60,
+      "revenue": 1564
+    },
+    {
+      "date": "2026-05-19",
+      "counts": {
+        "regular": 2,
+        "special": 1,
+        "private": 0,
+        "commission": 13,
+        "showroom": 43
+      },
+      "revenue_by_pkg": {
+        "regular": 368,
+        "special": 460,
+        "private": 0,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 3,
+      "package_ads": 16,
+      "total": 59,
+      "revenue": 828
+    },
+    {
+      "date": "2026-05-20",
+      "counts": {
+        "regular": 3,
+        "special": 2,
+        "private": 0,
+        "commission": 7,
+        "showroom": 42
+      },
+      "revenue_by_pkg": {
+        "regular": 552,
+        "special": 920,
+        "private": 0,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 5,
+      "package_ads": 12,
+      "total": 54,
+      "revenue": 1472
+    },
+    {
+      "date": "2026-05-21",
+      "counts": {
+        "regular": 5,
+        "special": 2,
+        "private": 1,
+        "commission": 8,
+        "showroom": 60
+      },
+      "revenue_by_pkg": {
+        "regular": 920,
+        "special": 920,
+        "private": 805,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 8,
+      "package_ads": 16,
+      "total": 76,
+      "revenue": 2645
+    },
+    {
+      "date": "2026-05-22",
+      "counts": {
+        "regular": 3,
+        "special": 0,
+        "private": 0,
+        "commission": 13,
+        "showroom": 22
+      },
+      "revenue_by_pkg": {
+        "regular": 552,
+        "special": 0,
+        "private": 0,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 3,
+      "package_ads": 16,
+      "total": 38,
+      "revenue": 552
+    },
+    {
+      "date": "2026-05-23",
+      "counts": {
+        "regular": 1,
+        "special": 2,
+        "private": 0,
+        "commission": 3,
+        "showroom": 47
+      },
+      "revenue_by_pkg": {
+        "regular": 184,
+        "special": 920,
+        "private": 0,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 3,
+      "package_ads": 6,
+      "total": 53,
+      "revenue": 1104
+    },
+    {
+      "date": "2026-05-24",
+      "counts": {
+        "regular": 3,
+        "special": 3,
+        "private": 2,
+        "commission": 9,
+        "showroom": 30
+      },
+      "revenue_by_pkg": {
+        "regular": 552,
+        "special": 1380,
+        "private": 1610,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 8,
+      "package_ads": 17,
+      "total": 47,
+      "revenue": 3542
+    },
+    {
+      "date": "2026-05-25",
+      "counts": {
+        "regular": 2,
+        "special": 7,
+        "private": 0,
+        "commission": 6,
+        "showroom": 32
+      },
+      "revenue_by_pkg": {
+        "regular": 368,
+        "special": 3220,
+        "private": 0,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 9,
+      "package_ads": 15,
+      "total": 47,
+      "revenue": 3588
+    },
+    {
+      "date": "2026-05-26",
+      "counts": {
+        "regular": 3,
+        "special": 1,
+        "private": 1,
+        "commission": 6,
+        "showroom": 27
+      },
+      "revenue_by_pkg": {
+        "regular": 552,
+        "special": 460,
+        "private": 805,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 5,
+      "package_ads": 11,
+      "total": 38,
+      "revenue": 1817
+    },
+    {
+      "date": "2026-05-27",
+      "counts": {
+        "regular": 0,
+        "special": 3,
+        "private": 0,
+        "commission": 6,
+        "showroom": 1
+      },
+      "revenue_by_pkg": {
+        "regular": 0,
+        "special": 1380,
+        "private": 0,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 3,
+      "package_ads": 9,
+      "total": 10,
+      "revenue": 1380
+    },
+    {
+      "date": "2026-05-28",
+      "counts": {
+        "regular": 1,
+        "special": 2,
+        "private": 2,
+        "commission": 4,
+        "showroom": 2
+      },
+      "revenue_by_pkg": {
+        "regular": 184,
+        "special": 920,
+        "private": 1610,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 5,
+      "package_ads": 9,
+      "total": 11,
+      "revenue": 2714
+    },
+    {
+      "date": "2026-05-29",
+      "counts": {
+        "regular": 3,
+        "special": 3,
+        "private": 0,
+        "commission": 4,
+        "showroom": 5
+      },
+      "revenue_by_pkg": {
+        "regular": 552,
+        "special": 1380,
+        "private": 0,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 6,
+      "package_ads": 10,
+      "total": 15,
+      "revenue": 1932
+    },
+    {
+      "date": "2026-05-30",
+      "counts": {
+        "regular": 2,
+        "special": 0,
+        "private": 0,
+        "commission": 13,
+        "showroom": 19
+      },
+      "revenue_by_pkg": {
+        "regular": 368,
+        "special": 0,
+        "private": 0,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 2,
+      "package_ads": 15,
+      "total": 34,
+      "revenue": 368
+    },
+    {
+      "date": "2026-05-31",
+      "counts": {
+        "regular": 0,
+        "special": 0,
+        "private": 0,
+        "commission": 11,
+        "showroom": 36
+      },
+      "revenue_by_pkg": {
+        "regular": 0,
+        "special": 0,
+        "private": 0,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 0,
+      "package_ads": 11,
+      "total": 47,
+      "revenue": 0
+    },
+    {
+      "date": "2026-06-01",
+      "counts": {
+        "regular": 4,
+        "special": 3,
+        "private": 0,
+        "commission": 12,
+        "showroom": 34
+      },
+      "revenue_by_pkg": {
+        "regular": 736,
+        "special": 1380,
+        "private": 0,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 7,
+      "package_ads": 19,
+      "total": 53,
+      "revenue": 2116
+    },
+    {
+      "date": "2026-06-02",
+      "counts": {
+        "regular": 2,
+        "special": 1,
+        "private": 0,
+        "commission": 9,
+        "showroom": 51
+      },
+      "revenue_by_pkg": {
+        "regular": 368,
+        "special": 460,
+        "private": 0,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 3,
+      "package_ads": 12,
+      "total": 63,
+      "revenue": 828
+    },
+    {
+      "date": "2026-06-03",
+      "counts": {
+        "regular": 0,
+        "special": 0,
+        "private": 3,
+        "commission": 15,
+        "showroom": 33
+      },
+      "revenue_by_pkg": {
+        "regular": 0,
+        "special": 0,
+        "private": 2415,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 3,
+      "package_ads": 18,
+      "total": 51,
+      "revenue": 2415
+    },
+    {
+      "date": "2026-06-04",
+      "counts": {
+        "regular": 2,
+        "special": 3,
+        "private": 0,
+        "commission": 8,
+        "showroom": 52
+      },
+      "revenue_by_pkg": {
+        "regular": 368,
+        "special": 1380,
+        "private": 0,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 5,
+      "package_ads": 13,
+      "total": 65,
+      "revenue": 1748
+    },
+    {
+      "date": "2026-06-05",
+      "counts": {
+        "regular": 2,
+        "special": 0,
+        "private": 0,
+        "commission": 8,
+        "showroom": 30
+      },
+      "revenue_by_pkg": {
+        "regular": 368,
+        "special": 0,
+        "private": 0,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 2,
+      "package_ads": 10,
+      "total": 40,
+      "revenue": 368
+    },
+    {
+      "date": "2026-06-06",
+      "counts": {
+        "regular": 4,
+        "special": 7,
+        "private": 0,
+        "commission": 9,
+        "showroom": 36
+      },
+      "revenue_by_pkg": {
+        "regular": 736,
+        "special": 3220,
+        "private": 0,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 11,
+      "package_ads": 20,
+      "total": 56,
+      "revenue": 3956
+    },
+    {
+      "date": "2026-06-07",
+      "counts": {
+        "regular": 4,
+        "special": 4,
+        "private": 1,
+        "commission": 13,
+        "showroom": 56
+      },
+      "revenue_by_pkg": {
+        "regular": 736,
+        "special": 1840,
+        "private": 805,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 9,
+      "package_ads": 22,
+      "total": 78,
+      "revenue": 3381
+    },
+    {
+      "date": "2026-06-08",
+      "counts": {
+        "regular": 4,
+        "special": 8,
+        "private": 0,
+        "commission": 8,
+        "showroom": 52
+      },
+      "revenue_by_pkg": {
+        "regular": 736,
+        "special": 3680,
+        "private": 0,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 12,
+      "package_ads": 20,
+      "total": 72,
+      "revenue": 4416
+    },
+    {
+      "date": "2026-06-09",
+      "counts": {
+        "regular": 3,
+        "special": 2,
+        "private": 0,
+        "commission": 14,
+        "showroom": 61
+      },
+      "revenue_by_pkg": {
+        "regular": 552,
+        "special": 920,
+        "private": 0,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 5,
+      "package_ads": 19,
+      "total": 80,
+      "revenue": 1472
+    },
+    {
+      "date": "2026-06-10",
+      "counts": {
+        "regular": 2,
+        "special": 2,
+        "private": 1,
+        "commission": 7,
+        "showroom": 41
+      },
+      "revenue_by_pkg": {
+        "regular": 368,
+        "special": 920,
+        "private": 805,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 5,
+      "package_ads": 12,
+      "total": 53,
+      "revenue": 2093
+    },
+    {
+      "date": "2026-06-11",
+      "counts": {
+        "regular": 5,
+        "special": 1,
+        "private": 0,
+        "commission": 11,
+        "showroom": 72
+      },
+      "revenue_by_pkg": {
+        "regular": 920,
+        "special": 460,
+        "private": 0,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 6,
+      "package_ads": 17,
+      "total": 89,
+      "revenue": 1380
+    },
+    {
+      "date": "2026-06-12",
+      "counts": {
+        "regular": 2,
+        "special": 2,
+        "private": 0,
+        "commission": 4,
+        "showroom": 12
+      },
+      "revenue_by_pkg": {
+        "regular": 368,
+        "special": 920,
+        "private": 0,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 4,
+      "package_ads": 8,
+      "total": 20,
+      "revenue": 1288
+    },
+    {
+      "date": "2026-06-13",
+      "counts": {
+        "regular": 6,
+        "special": 4,
+        "private": 2,
+        "commission": 9,
+        "showroom": 42
+      },
+      "revenue_by_pkg": {
+        "regular": 1104,
+        "special": 1840,
+        "private": 1610,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 12,
+      "package_ads": 21,
+      "total": 63,
+      "revenue": 4554
+    }
+  ],
+  "weekly": [
+    {
+      "counts": {
+        "regular": 2,
+        "special": 6,
+        "private": 1,
+        "commission": 12,
+        "showroom": 31
+      },
+      "revenue_by_pkg": {
+        "regular": 230,
+        "special": 2070,
+        "private": 805,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 9,
+      "package_ads": 21,
+      "total": 52,
+      "revenue": 3105,
+      "start": "2026-03-01",
+      "end": "2026-03-01",
+      "days": 1,
+      "label": "Week of 1 Mar",
+      "range_label": "01 Mar–01 Mar",
+      "partial": true,
+      "same_period": {
+        "2025": {
+          "start": "2025-03-01",
+          "end": "2025-03-01",
+          "days": 1,
+          "counts": {
+            "regular": 4,
+            "special": 5,
+            "private": 0,
+            "commission": 5,
+            "showroom": 18
+          },
+          "revenue_by_pkg": {
+            "regular": 460,
+            "special": 1725,
+            "private": 0,
+            "commission": 0,
+            "showroom": 0
+          },
+          "paid": 9,
+          "package_ads": 14,
+          "total": 32,
+          "revenue": 2185,
+          "label": "Same dates 2025"
+        }
+      }
+    },
+    {
+      "counts": {
+        "regular": 29,
+        "special": 32,
+        "private": 4,
+        "commission": 71,
+        "showroom": 309
+      },
+      "revenue_by_pkg": {
+        "regular": 3335,
+        "special": 11040,
+        "private": 3220,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 65,
+      "package_ads": 136,
+      "total": 445,
+      "revenue": 17595,
+      "start": "2026-03-02",
+      "end": "2026-03-08",
+      "days": 7,
+      "label": "Week of 2 Mar",
+      "range_label": "02 Mar–08 Mar",
+      "partial": false,
+      "same_period": {
+        "2025": {
+          "start": "2025-03-02",
+          "end": "2025-03-08",
+          "days": 7,
+          "counts": {
+            "regular": 24,
+            "special": 30,
+            "private": 2,
+            "commission": 52,
+            "showroom": 233
+          },
+          "revenue_by_pkg": {
+            "regular": 2760,
+            "special": 10350,
+            "private": 1610,
+            "commission": 0,
+            "showroom": 0
+          },
+          "paid": 56,
+          "package_ads": 108,
+          "total": 341,
+          "revenue": 14720,
+          "label": "Same dates 2025"
+        }
+      }
+    },
+    {
+      "counts": {
+        "regular": 26,
+        "special": 30,
+        "private": 7,
+        "commission": 102,
+        "showroom": 336
+      },
+      "revenue_by_pkg": {
+        "regular": 2990,
+        "special": 10350,
+        "private": 5635,
+        "commission": 4500.0,
+        "showroom": 0
+      },
+      "paid": 63,
+      "package_ads": 165,
+      "total": 501,
+      "revenue": 23475.0,
+      "start": "2026-03-09",
+      "end": "2026-03-15",
+      "days": 7,
+      "label": "Week of 9 Mar",
+      "range_label": "09 Mar–15 Mar",
+      "partial": false,
+      "same_period": {
+        "2025": {
+          "start": "2025-03-09",
+          "end": "2025-03-15",
+          "days": 7,
+          "counts": {
+            "regular": 22,
+            "special": 36,
+            "private": 4,
+            "commission": 69,
+            "showroom": 239
+          },
+          "revenue_by_pkg": {
+            "regular": 2530,
+            "special": 12420,
+            "private": 3220,
+            "commission": 0,
+            "showroom": 0
+          },
+          "paid": 62,
+          "package_ads": 131,
+          "total": 370,
+          "revenue": 18170,
+          "label": "Same dates 2025"
+        }
+      }
+    },
+    {
+      "counts": {
+        "regular": 14,
+        "special": 9,
+        "private": 1,
+        "commission": 52,
+        "showroom": 162
+      },
+      "revenue_by_pkg": {
+        "regular": 1610,
+        "special": 3105,
+        "private": 805,
+        "commission": 2150.0,
+        "showroom": 0
+      },
+      "paid": 24,
+      "package_ads": 76,
+      "total": 238,
+      "revenue": 7670.0,
+      "start": "2026-03-16",
+      "end": "2026-03-22",
+      "days": 7,
+      "label": "Week of 16 Mar",
+      "range_label": "16 Mar–22 Mar",
+      "partial": false,
+      "same_period": {
+        "2025": {
+          "start": "2025-03-16",
+          "end": "2025-03-22",
+          "days": 7,
+          "counts": {
+            "regular": 29,
+            "special": 27,
+            "private": 7,
+            "commission": 85,
+            "showroom": 219
+          },
+          "revenue_by_pkg": {
+            "regular": 3335,
+            "special": 9315,
+            "private": 5635,
+            "commission": 1250.0,
+            "showroom": 0
+          },
+          "paid": 63,
+          "package_ads": 148,
+          "total": 367,
+          "revenue": 19535.0,
+          "label": "Same dates 2025"
+        }
+      }
+    },
+    {
+      "counts": {
+        "regular": 18,
+        "special": 14,
+        "private": 3,
+        "commission": 66,
+        "showroom": 203
+      },
+      "revenue_by_pkg": {
+        "regular": 2070,
+        "special": 4830,
+        "private": 2415,
+        "commission": 5700.0,
+        "showroom": 0
+      },
+      "paid": 35,
+      "package_ads": 101,
+      "total": 304,
+      "revenue": 15015.0,
+      "start": "2026-03-23",
+      "end": "2026-03-29",
+      "days": 7,
+      "label": "Week of 23 Mar",
+      "range_label": "23 Mar–29 Mar",
+      "partial": false,
+      "same_period": {
+        "2025": {
+          "start": "2025-03-23",
+          "end": "2025-03-29",
+          "days": 7,
+          "counts": {
+            "regular": 20,
+            "special": 26,
+            "private": 2,
+            "commission": 53,
+            "showroom": 184
+          },
+          "revenue_by_pkg": {
+            "regular": 2300,
+            "special": 8970,
+            "private": 1610,
+            "commission": 1765.0,
+            "showroom": 0
+          },
+          "paid": 48,
+          "package_ads": 101,
+          "total": 285,
+          "revenue": 14645.0,
+          "label": "Same dates 2025"
+        }
+      }
+    },
+    {
+      "counts": {
+        "regular": 29,
+        "special": 25,
+        "private": 2,
+        "commission": 76,
+        "showroom": 311
+      },
+      "revenue_by_pkg": {
+        "regular": 3335,
+        "special": 8625,
+        "private": 1610,
+        "commission": 2369.98,
+        "showroom": 0
+      },
+      "paid": 56,
+      "package_ads": 132,
+      "total": 443,
+      "revenue": 15939.98,
+      "start": "2026-03-30",
+      "end": "2026-04-05",
+      "days": 7,
+      "label": "Week of 30 Mar",
+      "range_label": "30 Mar–05 Apr",
+      "partial": false,
+      "same_period": {
+        "2025": {
+          "start": "2025-03-30",
+          "end": "2025-04-05",
+          "days": 7,
+          "counts": {
+            "regular": 6,
+            "special": 11,
+            "private": 2,
+            "commission": 52,
+            "showroom": 58
+          },
+          "revenue_by_pkg": {
+            "regular": 690,
+            "special": 3795,
+            "private": 1610,
+            "commission": 0,
+            "showroom": 0
+          },
+          "paid": 19,
+          "package_ads": 71,
+          "total": 129,
+          "revenue": 6095,
+          "label": "Same dates 2025"
+        }
+      }
+    },
+    {
+      "counts": {
+        "regular": 34,
+        "special": 21,
+        "private": 3,
+        "commission": 73,
+        "showroom": 270
+      },
+      "revenue_by_pkg": {
+        "regular": 3910,
+        "special": 7245,
+        "private": 2415,
+        "commission": 1100.0,
+        "showroom": 0
+      },
+      "paid": 58,
+      "package_ads": 131,
+      "total": 401,
+      "revenue": 14670.0,
+      "start": "2026-04-06",
+      "end": "2026-04-12",
+      "days": 7,
+      "label": "Week of 6 Apr",
+      "range_label": "06 Apr–12 Apr",
+      "partial": false,
+      "same_period": {
+        "2025": {
+          "start": "2025-04-06",
+          "end": "2025-04-12",
+          "days": 7,
+          "counts": {
+            "regular": 37,
+            "special": 18,
+            "private": 2,
+            "commission": 93,
+            "showroom": 170
+          },
+          "revenue_by_pkg": {
+            "regular": 4255,
+            "special": 6210,
+            "private": 1610,
+            "commission": 0,
+            "showroom": 0
+          },
+          "paid": 57,
+          "package_ads": 150,
+          "total": 320,
+          "revenue": 12075,
+          "label": "Same dates 2025"
+        }
+      }
+    },
+    {
+      "counts": {
+        "regular": 21,
+        "special": 27,
+        "private": 2,
+        "commission": 77,
+        "showroom": 311
+      },
+      "revenue_by_pkg": {
+        "regular": 2415,
+        "special": 9315,
+        "private": 1610,
+        "commission": 5150.0,
+        "showroom": 0
+      },
+      "paid": 50,
+      "package_ads": 127,
+      "total": 438,
+      "revenue": 18490.0,
+      "start": "2026-04-13",
+      "end": "2026-04-19",
+      "days": 7,
+      "label": "Week of 13 Apr",
+      "range_label": "13 Apr–19 Apr",
+      "partial": false,
+      "same_period": {
+        "2025": {
+          "start": "2025-04-13",
+          "end": "2025-04-19",
+          "days": 7,
+          "counts": {
+            "regular": 39,
+            "special": 14,
+            "private": 3,
+            "commission": 76,
+            "showroom": 266
+          },
+          "revenue_by_pkg": {
+            "regular": 4485,
+            "special": 4830,
+            "private": 2415,
+            "commission": 850.0,
+            "showroom": 0
+          },
+          "paid": 56,
+          "package_ads": 132,
+          "total": 398,
+          "revenue": 12580.0,
+          "label": "Same dates 2025"
+        }
+      }
+    },
+    {
+      "counts": {
+        "regular": 30,
+        "special": 35,
+        "private": 1,
+        "commission": 93,
+        "showroom": 300
+      },
+      "revenue_by_pkg": {
+        "regular": 3450,
+        "special": 12075,
+        "private": 805,
+        "commission": 2400.0,
+        "showroom": 0
+      },
+      "paid": 66,
+      "package_ads": 159,
+      "total": 459,
+      "revenue": 18730.0,
+      "start": "2026-04-20",
+      "end": "2026-04-26",
+      "days": 7,
+      "label": "Week of 20 Apr",
+      "range_label": "20 Apr–26 Apr",
+      "partial": false,
+      "same_period": {
+        "2025": {
+          "start": "2025-04-20",
+          "end": "2025-04-26",
+          "days": 7,
+          "counts": {
+            "regular": 28,
+            "special": 32,
+            "private": 5,
+            "commission": 75,
+            "showroom": 272
+          },
+          "revenue_by_pkg": {
+            "regular": 3220,
+            "special": 11040,
+            "private": 4025,
+            "commission": 1500.0,
+            "showroom": 0
+          },
+          "paid": 65,
+          "package_ads": 140,
+          "total": 412,
+          "revenue": 19785.0,
+          "label": "Same dates 2025"
+        }
+      }
+    },
+    {
+      "counts": {
+        "regular": 18,
+        "special": 21,
+        "private": 6,
+        "commission": 77,
+        "showroom": 297
+      },
+      "revenue_by_pkg": {
+        "regular": 2070,
+        "special": 7245,
+        "private": 4830,
+        "commission": 1750.0,
+        "showroom": 0
+      },
+      "paid": 45,
+      "package_ads": 122,
+      "total": 419,
+      "revenue": 15895.0,
+      "start": "2026-04-27",
+      "end": "2026-05-03",
+      "days": 7,
+      "label": "Week of 27 Apr",
+      "range_label": "27 Apr–03 May",
+      "partial": false,
+      "same_period": {
+        "2025": {
+          "start": "2025-04-27",
+          "end": "2025-05-03",
+          "days": 7,
+          "counts": {
+            "regular": 31,
+            "special": 24,
+            "private": 2,
+            "commission": 81,
+            "showroom": 261
+          },
+          "revenue_by_pkg": {
+            "regular": 3565,
+            "special": 8280,
+            "private": 1610,
+            "commission": 5530.0,
+            "showroom": 0
+          },
+          "paid": 57,
+          "package_ads": 138,
+          "total": 399,
+          "revenue": 18985.0,
+          "label": "Same dates 2025"
+        }
+      }
+    },
+    {
+      "counts": {
+        "regular": 38,
+        "special": 19,
+        "private": 3,
+        "commission": 66,
+        "showroom": 336
+      },
+      "revenue_by_pkg": {
+        "regular": 4370,
+        "special": 6555,
+        "private": 2415,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 60,
+      "package_ads": 126,
+      "total": 462,
+      "revenue": 13340,
+      "start": "2026-05-04",
+      "end": "2026-05-10",
+      "days": 7,
+      "label": "Week of 4 May",
+      "range_label": "04 May–10 May",
+      "partial": false,
+      "same_period": {
+        "2025": {
+          "start": "2025-05-04",
+          "end": "2025-05-10",
+          "days": 7,
+          "counts": {
+            "regular": 28,
+            "special": 20,
+            "private": 4,
+            "commission": 75,
+            "showroom": 295
+          },
+          "revenue_by_pkg": {
+            "regular": 3220,
+            "special": 6900,
+            "private": 3220,
+            "commission": 0,
+            "showroom": 0
+          },
+          "paid": 52,
+          "package_ads": 127,
+          "total": 422,
+          "revenue": 13340,
+          "label": "Same dates 2025"
+        }
+      }
+    },
+    {
+      "counts": {
+        "regular": 39,
+        "special": 18,
+        "private": 5,
+        "commission": 65,
+        "showroom": 293
+      },
+      "revenue_by_pkg": {
+        "regular": 4485,
+        "special": 6210,
+        "private": 4025,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 62,
+      "package_ads": 127,
+      "total": 420,
+      "revenue": 14720,
+      "start": "2026-05-11",
+      "end": "2026-05-17",
+      "days": 7,
+      "label": "Week of 11 May",
+      "range_label": "11 May–17 May",
+      "partial": false,
+      "same_period": {
+        "2025": {
+          "start": "2025-05-11",
+          "end": "2025-05-17",
+          "days": 7,
+          "counts": {
+            "regular": 30,
+            "special": 22,
+            "private": 2,
+            "commission": 76,
+            "showroom": 328
+          },
+          "revenue_by_pkg": {
+            "regular": 3450,
+            "special": 7590,
+            "private": 1610,
+            "commission": 4200.0,
+            "showroom": 0
+          },
+          "paid": 54,
+          "package_ads": 130,
+          "total": 458,
+          "revenue": 16850.0,
+          "label": "Same dates 2025"
+        }
+      }
+    },
+    {
+      "counts": {
+        "regular": 18,
+        "special": 13,
+        "private": 3,
+        "commission": 65,
+        "showroom": 288
+      },
+      "revenue_by_pkg": {
+        "regular": 3312,
+        "special": 5980,
+        "private": 2415,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 34,
+      "package_ads": 99,
+      "total": 387,
+      "revenue": 11707,
+      "start": "2026-05-18",
+      "end": "2026-05-24",
+      "days": 7,
+      "label": "Week of 18 May",
+      "range_label": "18 May–24 May",
+      "partial": false,
+      "same_period": {
+        "2025": {
+          "start": "2025-05-18",
+          "end": "2025-05-24",
+          "days": 7,
+          "counts": {
+            "regular": 28,
+            "special": 22,
+            "private": 4,
+            "commission": 91,
+            "showroom": 229
+          },
+          "revenue_by_pkg": {
+            "regular": 3220,
+            "special": 7590,
+            "private": 3220,
+            "commission": 0,
+            "showroom": 0
+          },
+          "paid": 54,
+          "package_ads": 145,
+          "total": 374,
+          "revenue": 14030,
+          "label": "Same dates 2025"
+        }
+      }
+    },
+    {
+      "counts": {
+        "regular": 11,
+        "special": 16,
+        "private": 3,
+        "commission": 50,
+        "showroom": 122
+      },
+      "revenue_by_pkg": {
+        "regular": 2024,
+        "special": 7360,
+        "private": 2415,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 30,
+      "package_ads": 80,
+      "total": 202,
+      "revenue": 11799,
+      "start": "2026-05-25",
+      "end": "2026-05-31",
+      "days": 7,
+      "label": "Week of 25 May",
+      "range_label": "25 May–31 May",
+      "partial": false,
+      "same_period": {
+        "2025": {
+          "start": "2025-05-25",
+          "end": "2025-05-31",
+          "days": 7,
+          "counts": {
+            "regular": 27,
+            "special": 28,
+            "private": 3,
+            "commission": 56,
+            "showroom": 228
+          },
+          "revenue_by_pkg": {
+            "regular": 3105,
+            "special": 9660,
+            "private": 2415,
+            "commission": 4000.0,
+            "showroom": 0
+          },
+          "paid": 58,
+          "package_ads": 114,
+          "total": 342,
+          "revenue": 19180.0,
+          "label": "Same dates 2025"
+        }
+      }
+    },
+    {
+      "counts": {
+        "regular": 18,
+        "special": 18,
+        "private": 4,
+        "commission": 74,
+        "showroom": 292
+      },
+      "revenue_by_pkg": {
+        "regular": 3312,
+        "special": 8280,
+        "private": 3220,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 40,
+      "package_ads": 114,
+      "total": 406,
+      "revenue": 14812,
+      "start": "2026-06-01",
+      "end": "2026-06-07",
+      "days": 7,
+      "label": "Week of 1 Jun",
+      "range_label": "01 Jun–07 Jun",
+      "partial": false,
+      "same_period": {
+        "2025": {
+          "start": "2025-06-01",
+          "end": "2025-06-07",
+          "days": 7,
+          "counts": {
+            "regular": 18,
+            "special": 26,
+            "private": 3,
+            "commission": 48,
+            "showroom": 174
+          },
+          "revenue_by_pkg": {
+            "regular": 2070,
+            "special": 8970,
+            "private": 2415,
+            "commission": 0,
+            "showroom": 0
+          },
+          "paid": 47,
+          "package_ads": 95,
+          "total": 269,
+          "revenue": 13455,
+          "label": "Same dates 2025"
+        }
+      }
+    },
+    {
+      "counts": {
+        "regular": 22,
+        "special": 19,
+        "private": 3,
+        "commission": 53,
+        "showroom": 280
+      },
+      "revenue_by_pkg": {
+        "regular": 4048,
+        "special": 8740,
+        "private": 2415,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 44,
+      "package_ads": 97,
+      "total": 377,
+      "revenue": 15203,
+      "start": "2026-06-08",
+      "end": "2026-06-13",
+      "days": 6,
+      "label": "Week of 8 Jun",
+      "range_label": "08 Jun–13 Jun",
+      "partial": true,
+      "same_period": {
+        "2025": {
+          "start": "2025-06-08",
+          "end": "2025-06-13",
+          "days": 6,
+          "counts": {
+            "regular": 9,
+            "special": 19,
+            "private": 0,
+            "commission": 54,
+            "showroom": 74
+          },
+          "revenue_by_pkg": {
+            "regular": 1035,
+            "special": 6555,
+            "private": 0,
+            "commission": 700.0,
+            "showroom": 0
+          },
+          "paid": 28,
+          "package_ads": 82,
+          "total": 156,
+          "revenue": 8290.0,
+          "label": "Same dates 2025"
+        }
+      }
+    }
+  ],
+  "monthly": [
+    {
+      "counts": {
+        "regular": 99,
+        "special": 97,
+        "private": 18,
+        "commission": 326,
+        "showroom": 1149
+      },
+      "revenue_by_pkg": {
+        "regular": 11385,
+        "special": 33465,
+        "private": 14490,
+        "commission": 12350.0,
+        "showroom": 0
+      },
+      "paid": 214,
+      "package_ads": 540,
+      "total": 1689,
+      "revenue": 71690.0,
+      "start": "2026-03-01",
+      "end": "2026-03-31",
+      "days": 31,
+      "label": "Mar 2026",
+      "range_label": "01 Mar–31 Mar",
+      "partial": false,
+      "same_period": {
+        "2025": {
+          "start": "2025-03-01",
+          "end": "2025-03-31",
+          "days": 31,
+          "counts": {
+            "regular": 100,
+            "special": 128,
+            "private": 15,
+            "commission": 273,
+            "showroom": 894
+          },
+          "revenue_by_pkg": {
+            "regular": 11500,
+            "special": 44160,
+            "private": 12075,
+            "commission": 3015.0,
+            "showroom": 0
+          },
+          "paid": 243,
+          "package_ads": 516,
+          "total": 1410,
+          "revenue": 70750.0,
+          "label": "Same dates 2025"
+        }
+      }
+    },
+    {
+      "counts": {
+        "regular": 117,
+        "special": 115,
+        "private": 9,
+        "commission": 331,
+        "showroom": 1262
+      },
+      "revenue_by_pkg": {
+        "regular": 13455,
+        "special": 39675,
+        "private": 7245,
+        "commission": 12769.98,
+        "showroom": 0
+      },
+      "paid": 241,
+      "package_ads": 572,
+      "total": 1834,
+      "revenue": 73144.98,
+      "start": "2026-04-01",
+      "end": "2026-04-30",
+      "days": 30,
+      "label": "Apr 2026",
+      "range_label": "01 Apr–30 Apr",
+      "partial": false,
+      "same_period": {
+        "2025": {
+          "start": "2025-04-01",
+          "end": "2025-04-30",
+          "days": 30,
+          "counts": {
+            "regular": 127,
+            "special": 87,
+            "private": 12,
+            "commission": 330,
+            "showroom": 929
+          },
+          "revenue_by_pkg": {
+            "regular": 14605,
+            "special": 30015,
+            "private": 9660,
+            "commission": 6380.0,
+            "showroom": 0
+          },
+          "paid": 226,
+          "package_ads": 556,
+          "total": 1485,
+          "revenue": 60660.0,
+          "label": "Same dates 2025"
+        }
+      }
+    },
+    {
+      "counts": {
+        "regular": 111,
+        "special": 74,
+        "private": 17,
+        "commission": 288,
+        "showroom": 1158
+      },
+      "revenue_by_pkg": {
+        "regular": 14766,
+        "special": 28865,
+        "private": 13685,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 202,
+      "package_ads": 490,
+      "total": 1648,
+      "revenue": 57316,
+      "start": "2026-05-01",
+      "end": "2026-05-31",
+      "days": 31,
+      "label": "May 2026",
+      "range_label": "01 May–31 May",
+      "partial": false,
+      "same_period": {
+        "2025": {
+          "start": "2025-05-01",
+          "end": "2025-05-31",
+          "days": 31,
+          "counts": {
+            "regular": 126,
+            "special": 100,
+            "private": 15,
+            "commission": 336,
+            "showroom": 1177
+          },
+          "revenue_by_pkg": {
+            "regular": 14490,
+            "special": 34500,
+            "private": 12075,
+            "commission": 9700.0,
+            "showroom": 0
+          },
+          "paid": 241,
+          "package_ads": 577,
+          "total": 1754,
+          "revenue": 70765.0,
+          "label": "Same dates 2025"
+        }
+      }
+    },
+    {
+      "counts": {
+        "regular": 40,
+        "special": 37,
+        "private": 7,
+        "commission": 127,
+        "showroom": 572
+      },
+      "revenue_by_pkg": {
+        "regular": 7360,
+        "special": 17020,
+        "private": 5635,
+        "commission": 0,
+        "showroom": 0
+      },
+      "paid": 84,
+      "package_ads": 211,
+      "total": 783,
+      "revenue": 30015,
+      "start": "2026-06-01",
+      "end": "2026-06-13",
+      "days": 13,
+      "label": "Jun 2026",
+      "range_label": "01 Jun–13 Jun",
+      "partial": true,
+      "same_period": {
+        "2025": {
+          "start": "2025-06-01",
+          "end": "2025-06-13",
+          "days": 13,
+          "counts": {
+            "regular": 27,
+            "special": 45,
+            "private": 3,
+            "commission": 102,
+            "showroom": 248
+          },
+          "revenue_by_pkg": {
+            "regular": 3105,
+            "special": 15525,
+            "private": 2415,
+            "commission": 700.0,
+            "showroom": 0
+          },
+          "paid": 75,
+          "package_ads": 177,
+          "total": 425,
+          "revenue": 21745.0,
+          "label": "Same dates 2025"
+        }
+      }
+    }
+  ]
+}
